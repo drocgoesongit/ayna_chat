@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ayna-chat",
+          "appId": "1:785040075286:android:4e5f3fa7a92b40f4306337",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ayna-chat",
+          "configurations": {
+            "android": "1:785040075286:android:4e5f3fa7a92b40f4306337",
+            "ios": "1:785040075286:ios:59df2033fd7004c5306337",
+            "web": "1:785040075286:web:28913eb23dff295b306337"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

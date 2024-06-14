@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785040075286",
+    "project_id": "ayna-chat",
+    "storage_bucket": "ayna-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785040075286:android:4e5f3fa7a92b40f4306337",
+        "android_client_info": {
+          "package_name": "com.example.ayna_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzu4NbilX2YHXEyBtrB8N3A6mt4sNrKmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
